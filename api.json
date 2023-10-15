@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Jugador 1",
+        "posicion": "Delantero",
+        "puntuacion": 85
+    },
+    {
+        "nombre": "Jugador 2",
+        "posicion": "Mediocampista",
+        "puntuacion": 78
+    },
+    {
+        "nombre": "Jugador 3",
+        "posicion": "Defensor",
+        "puntuacion": 72
+    },
+    {
+        "nombre": "Jugador 4",
+        "posicion": "Delantero",
+        "puntuacion": 90
+    },
+    {
+        "nombre": "Jugador 5",
+        "posicion": "Portero",
+        "puntuacion": 65
+    }
+]
