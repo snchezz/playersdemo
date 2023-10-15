@@ -1,26 +1,26 @@
 [
     {
-        "nombre": "Jugador 1",
+        "nombre": "Adrian",
         "posicion": "Delantero",
         "puntuacion": 85
     },
     {
-        "nombre": "Jugador 2",
+        "nombre": "Monre",
         "posicion": "Mediocampista",
         "puntuacion": 78
     },
     {
-        "nombre": "Jugador 3",
+        "nombre": "Rodri",
         "posicion": "Defensor",
         "puntuacion": 72
     },
     {
-        "nombre": "Jugador 4",
+        "nombre": "Joni",
         "posicion": "Delantero",
         "puntuacion": 90
     },
     {
-        "nombre": "Jugador 5",
+        "nombre": "Caro",
         "posicion": "Portero",
         "puntuacion": 65
     }
